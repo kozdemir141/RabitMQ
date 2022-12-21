@@ -1,0 +1,17 @@
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/bin/Debug/net6.0/FanoutExchange.publisher
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/bin/Debug/net6.0/FanoutExchange.publisher.deps.json
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/bin/Debug/net6.0/FanoutExchange.publisher.runtimeconfig.json
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/bin/Debug/net6.0/FanoutExchange.publisher.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/bin/Debug/net6.0/FanoutExchange.publisher.pdb
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/obj/Debug/net6.0/FanoutExchange.publisher.csproj.AssemblyReference.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/obj/Debug/net6.0/FanoutExchange.publisher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/obj/Debug/net6.0/FanoutExchange.publisher.AssemblyInfoInputs.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/obj/Debug/net6.0/FanoutExchange.publisher.AssemblyInfo.cs
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/obj/Debug/net6.0/FanoutExchange.publisher.csproj.CoreCompileInputs.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/obj/Debug/net6.0/FanoutExchange.publisher.csproj.CopyComplete
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/obj/Debug/net6.0/FanoutExchange.publisher.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/obj/Debug/net6.0/refint/FanoutExchange.publisher.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/obj/Debug/net6.0/FanoutExchange.publisher.pdb
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/obj/Debug/net6.0/FanoutExchange.publisher.genruntimeconfig.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.publisher/obj/Debug/net6.0/ref/FanoutExchange.publisher.dll

@@ -12,6 +12,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanoutExchange.publisher", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FanoutExchange.subscriber", "FanoutExchange\FanoutExchange.subscriber\FanoutExchange.subscriber.csproj", "{C1C27D75-C917-408D-9C3F-9D2004DC784F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DirectExchange", "DirectExchange", "{FA339A34-2776-4250-AD5E-56CCBDFAE637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectExchange.publisher", "DirectExchange\DirectExchange.publisher\DirectExchange.publisher.csproj", "{19EA2FE3-08E3-4636-B611-86A90A9B9A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectExchange.subscriber", "DirectExchange\DirectExchange.subscriber\DirectExchange.subscriber.csproj", "{8132944E-204A-4100-A424-FF8C7C188890}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,6 +28,8 @@ Global
 		{F4BA6E7F-E1A7-4D9C-A429-839AD263D2CB} = {C9A3E7E4-64E5-45E0-9D15-B388EF676F8F}
 		{F5D5F10E-21EB-4DEE-971A-F691FC8885F5} = {511FB84B-57FD-4B53-A1E1-B960A28C2C92}
 		{C1C27D75-C917-408D-9C3F-9D2004DC784F} = {511FB84B-57FD-4B53-A1E1-B960A28C2C92}
+		{19EA2FE3-08E3-4636-B611-86A90A9B9A97} = {FA339A34-2776-4250-AD5E-56CCBDFAE637}
+		{8132944E-204A-4100-A424-FF8C7C188890} = {FA339A34-2776-4250-AD5E-56CCBDFAE637}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{98D85CB1-F132-497C-9D80-0AF710BF7971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -40,5 +48,13 @@ Global
 		{C1C27D75-C917-408D-9C3F-9D2004DC784F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1C27D75-C917-408D-9C3F-9D2004DC784F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1C27D75-C917-408D-9C3F-9D2004DC784F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19EA2FE3-08E3-4636-B611-86A90A9B9A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EA2FE3-08E3-4636-B611-86A90A9B9A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EA2FE3-08E3-4636-B611-86A90A9B9A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19EA2FE3-08E3-4636-B611-86A90A9B9A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8132944E-204A-4100-A424-FF8C7C188890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8132944E-204A-4100-A424-FF8C7C188890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8132944E-204A-4100-A424-FF8C7C188890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8132944E-204A-4100-A424-FF8C7C188890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

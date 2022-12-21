@@ -1,0 +1,17 @@
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/bin/Debug/net6.0/FanoutExchange.subscriber
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/bin/Debug/net6.0/FanoutExchange.subscriber.deps.json
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/bin/Debug/net6.0/FanoutExchange.subscriber.runtimeconfig.json
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/bin/Debug/net6.0/FanoutExchange.subscriber.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/bin/Debug/net6.0/FanoutExchange.subscriber.pdb
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/obj/Debug/net6.0/FanoutExchange.subscriber.csproj.AssemblyReference.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/obj/Debug/net6.0/FanoutExchange.subscriber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/obj/Debug/net6.0/FanoutExchange.subscriber.AssemblyInfoInputs.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/obj/Debug/net6.0/FanoutExchange.subscriber.AssemblyInfo.cs
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/obj/Debug/net6.0/FanoutExchange.subscriber.csproj.CoreCompileInputs.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/obj/Debug/net6.0/FanoutExchange.subscriber.csproj.CopyComplete
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/obj/Debug/net6.0/FanoutExchange.subscriber.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/obj/Debug/net6.0/refint/FanoutExchange.subscriber.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/obj/Debug/net6.0/FanoutExchange.subscriber.pdb
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/obj/Debug/net6.0/FanoutExchange.subscriber.genruntimeconfig.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/FanoutExchange/FanoutExchange.subscriber/obj/Debug/net6.0/ref/FanoutExchange.subscriber.dll
