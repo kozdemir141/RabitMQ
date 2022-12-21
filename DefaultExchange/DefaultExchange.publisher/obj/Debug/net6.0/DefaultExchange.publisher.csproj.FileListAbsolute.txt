@@ -1,0 +1,17 @@
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/bin/Debug/net6.0/DefaultExchange.publisher
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/bin/Debug/net6.0/DefaultExchange.publisher.deps.json
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/bin/Debug/net6.0/DefaultExchange.publisher.runtimeconfig.json
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/bin/Debug/net6.0/DefaultExchange.publisher.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/bin/Debug/net6.0/DefaultExchange.publisher.pdb
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/obj/Debug/net6.0/DefaultExchange.publisher.csproj.AssemblyReference.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/obj/Debug/net6.0/DefaultExchange.publisher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/obj/Debug/net6.0/DefaultExchange.publisher.AssemblyInfoInputs.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/obj/Debug/net6.0/DefaultExchange.publisher.AssemblyInfo.cs
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/obj/Debug/net6.0/DefaultExchange.publisher.csproj.CoreCompileInputs.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/obj/Debug/net6.0/DefaultExchange.publisher.csproj.CopyComplete
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/obj/Debug/net6.0/DefaultExchange.publisher.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/obj/Debug/net6.0/refint/DefaultExchange.publisher.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/obj/Debug/net6.0/DefaultExchange.publisher.pdb
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/obj/Debug/net6.0/DefaultExchange.publisher.genruntimeconfig.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.publisher/obj/Debug/net6.0/ref/DefaultExchange.publisher.dll

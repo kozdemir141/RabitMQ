@@ -1,0 +1,17 @@
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/bin/Debug/net6.0/DefaultExchange.subscriber
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/bin/Debug/net6.0/DefaultExchange.subscriber.deps.json
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/bin/Debug/net6.0/DefaultExchange.subscriber.runtimeconfig.json
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/bin/Debug/net6.0/DefaultExchange.subscriber.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/bin/Debug/net6.0/DefaultExchange.subscriber.pdb
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/obj/Debug/net6.0/DefaultExchange.subscriber.csproj.AssemblyReference.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/obj/Debug/net6.0/DefaultExchange.subscriber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/obj/Debug/net6.0/DefaultExchange.subscriber.AssemblyInfoInputs.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/obj/Debug/net6.0/DefaultExchange.subscriber.AssemblyInfo.cs
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/obj/Debug/net6.0/DefaultExchange.subscriber.csproj.CoreCompileInputs.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/obj/Debug/net6.0/DefaultExchange.subscriber.csproj.CopyComplete
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/obj/Debug/net6.0/DefaultExchange.subscriber.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/obj/Debug/net6.0/refint/DefaultExchange.subscriber.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/obj/Debug/net6.0/DefaultExchange.subscriber.pdb
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/obj/Debug/net6.0/DefaultExchange.subscriber.genruntimeconfig.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DefaultExchange/DefaultExchange.subscriber/obj/Debug/net6.0/ref/DefaultExchange.subscriber.dll
