@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fleTzMW/4w9fXtOY2n1UuepfJFEjLb6uL3cDbm6LJn366uiLFKTLJ5zhzzzPgkg77J5Qml0J/X8ZMSa7kizNEA==",
+  "dgSpecHash": "V9FFE8lRQWR2Ju9QRTi6mcClcjNr0tj6UEn79VL62aLyqE+fRlUunDIX+eVS8Ip2TXG9M0GScpGqi/r/k3/KLw==",
   "success": true,
   "projectFilePath": "/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.publisher/DirectExchange.publisher.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/kutluozdemir/.nuget/packages/rabbitmq.client/6.4.0/rabbitmq.client.6.4.0.nupkg.sha512",
+    "/Users/kutluozdemir/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/kutluozdemir/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }
