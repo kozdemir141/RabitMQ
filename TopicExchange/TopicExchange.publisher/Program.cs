@@ -25,7 +25,6 @@ Enumerable.Range(1, 50).ToList().ForEach(x =>
 
     Console.WriteLine($"Log Gönderilmiştir : {message}");
 });
-
 Console.ReadLine();
 
 public enum LogNames
