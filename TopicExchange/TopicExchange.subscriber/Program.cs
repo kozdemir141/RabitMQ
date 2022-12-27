@@ -11,7 +11,7 @@ using var connection = factory.CreateConnection();
 var channel = connection.CreateModel();
 
 var randomQueueName = channel.QueueDeclare().QueueName;
-//Ortasında Error olan route key leri temsil eder. Başlangıç ve bitişindeki string değerler önemli değildir.
+//Ortasında Error olan route key leri temsil eder.Başlangıç ve bitişindeki string değerler önemli değildir.
 var routeKey = "*.Error.*";
 channel.QueueBind(randomQueueName, "logs-topic", routeKey);
 
