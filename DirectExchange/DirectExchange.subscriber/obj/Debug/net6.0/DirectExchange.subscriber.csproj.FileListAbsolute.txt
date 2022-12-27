@@ -1,0 +1,17 @@
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/bin/Debug/net6.0/DirectExchange.subscriber
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/bin/Debug/net6.0/DirectExchange.subscriber.deps.json
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/bin/Debug/net6.0/DirectExchange.subscriber.runtimeconfig.json
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/bin/Debug/net6.0/DirectExchange.subscriber.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/bin/Debug/net6.0/DirectExchange.subscriber.pdb
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/obj/Debug/net6.0/DirectExchange.subscriber.csproj.AssemblyReference.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/obj/Debug/net6.0/DirectExchange.subscriber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/obj/Debug/net6.0/DirectExchange.subscriber.AssemblyInfoInputs.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/obj/Debug/net6.0/DirectExchange.subscriber.AssemblyInfo.cs
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/obj/Debug/net6.0/DirectExchange.subscriber.csproj.CoreCompileInputs.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/obj/Debug/net6.0/DirectExchange.subscriber.csproj.CopyComplete
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/obj/Debug/net6.0/DirectExchange.subscriber.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/obj/Debug/net6.0/refint/DirectExchange.subscriber.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/obj/Debug/net6.0/DirectExchange.subscriber.pdb
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/obj/Debug/net6.0/DirectExchange.subscriber.genruntimeconfig.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/DirectExchange/DirectExchange.subscriber/obj/Debug/net6.0/ref/DirectExchange.subscriber.dll

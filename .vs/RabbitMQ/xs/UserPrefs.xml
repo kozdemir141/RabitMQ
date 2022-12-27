@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8132944E-204A-4100-A424-FF8C7C188890}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DirectExchange/DirectExchange.subscriber/Program.cs">
+    <Files>
+      <File FileName="DirectExchange/DirectExchange.publisher/Program.cs" Line="17" Column="1" />
+      <File FileName="DirectExchange/DirectExchange.subscriber/Program.cs" Line="26" Column="43" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RabbitMQ" expanded="True">
+            <Node name="DirectExchange" expanded="True">
+              <Node name="DirectExchange.publisher" expanded="True" />
+              <Node name="DirectExchange.subscriber" expanded="True">
+                <Node name="Dependencies" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DefaultExchange.DefaultExchange.publisher PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DirectExchange.DirectExchange.subscriber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DirectExchange.DirectExchange.publisher PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
