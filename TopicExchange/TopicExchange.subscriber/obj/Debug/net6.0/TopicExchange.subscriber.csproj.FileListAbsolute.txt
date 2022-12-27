@@ -1,0 +1,17 @@
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/bin/Debug/net6.0/TopicExchange.subscriber
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/bin/Debug/net6.0/TopicExchange.subscriber.deps.json
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/bin/Debug/net6.0/TopicExchange.subscriber.runtimeconfig.json
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/bin/Debug/net6.0/TopicExchange.subscriber.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/bin/Debug/net6.0/TopicExchange.subscriber.pdb
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/obj/Debug/net6.0/TopicExchange.subscriber.csproj.AssemblyReference.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/obj/Debug/net6.0/TopicExchange.subscriber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/obj/Debug/net6.0/TopicExchange.subscriber.AssemblyInfoInputs.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/obj/Debug/net6.0/TopicExchange.subscriber.AssemblyInfo.cs
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/obj/Debug/net6.0/TopicExchange.subscriber.csproj.CoreCompileInputs.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/obj/Debug/net6.0/TopicExchange.subscriber.csproj.CopyComplete
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/obj/Debug/net6.0/TopicExchange.subscriber.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/obj/Debug/net6.0/refint/TopicExchange.subscriber.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/obj/Debug/net6.0/TopicExchange.subscriber.pdb
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/obj/Debug/net6.0/TopicExchange.subscriber.genruntimeconfig.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.subscriber/obj/Debug/net6.0/ref/TopicExchange.subscriber.dll

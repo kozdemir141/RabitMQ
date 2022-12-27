@@ -1,0 +1,17 @@
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/bin/Debug/net6.0/TopicExchange.publisher
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/bin/Debug/net6.0/TopicExchange.publisher.deps.json
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/bin/Debug/net6.0/TopicExchange.publisher.runtimeconfig.json
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/bin/Debug/net6.0/TopicExchange.publisher.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/bin/Debug/net6.0/TopicExchange.publisher.pdb
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/obj/Debug/net6.0/TopicExchange.publisher.csproj.AssemblyReference.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/obj/Debug/net6.0/TopicExchange.publisher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/obj/Debug/net6.0/TopicExchange.publisher.AssemblyInfoInputs.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/obj/Debug/net6.0/TopicExchange.publisher.AssemblyInfo.cs
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/obj/Debug/net6.0/TopicExchange.publisher.csproj.CoreCompileInputs.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/obj/Debug/net6.0/TopicExchange.publisher.csproj.CopyComplete
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/obj/Debug/net6.0/TopicExchange.publisher.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/obj/Debug/net6.0/refint/TopicExchange.publisher.dll
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/obj/Debug/net6.0/TopicExchange.publisher.pdb
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/obj/Debug/net6.0/TopicExchange.publisher.genruntimeconfig.cache
+/Users/kutluozdemir/RiderProjects/RabbitMQ/TopicExchange/TopicExchange.publisher/obj/Debug/net6.0/ref/TopicExchange.publisher.dll

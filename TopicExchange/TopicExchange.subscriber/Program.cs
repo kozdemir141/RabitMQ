@@ -10,6 +10,11 @@ using var connection = factory.CreateConnection();
 
 var channel = connection.CreateModel();
 
+var randomQueueName = channel.QueueDeclare().QueueName;
+//Ortasında Error olan route key leri temsil eder. Başlangıç ve bitişindeki string değerler önemli değildir.
+var routeKey = "*.Error.*";
+channel.QueueBind(randomQueueName, "logs-topic", routeKey);
+
 channel.BasicQos(0, 1, false);
 
 var consumer = new EventingBasicConsumer(channel);
@@ -28,8 +33,6 @@ consumer.Received += (sender, eventArgs) =>
 
     channel.BasicAck(eventArgs.DeliveryTag, false);
 };
-
-var queueName = "direct-queue-Warning";
-channel.BasicConsume(queueName, false, consumer);
+channel.BasicConsume(randomQueueName, false, consumer);
 
 Console.ReadLine();
