@@ -24,6 +24,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopicExchange.publisher", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopicExchange.subscriber", "TopicExchange\TopicExchange.subscriber\TopicExchange.subscriber.csproj", "{61568B82-0777-465F-B507-000EAF70D51C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HeaderExchange", "HeaderExchange", "{21570E98-069D-4F3A-86E5-5B2688CA8A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaderExchange.publisher", "HeaderExchange\HeaderExchange.publisher\HeaderExchange.publisher.csproj", "{06000CDF-CBAA-47A2-8F1C-30B2BDD617D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeaderExchange.subscriber", "HeaderExchange\HeaderExchange.subscriber\HeaderExchange.subscriber.csproj", "{5F4F8F2E-96B7-4054-AC4B-8A40C710F704}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +44,8 @@ Global
 		{8132944E-204A-4100-A424-FF8C7C188890} = {FA339A34-2776-4250-AD5E-56CCBDFAE637}
 		{892A703F-123F-4FD9-AC82-5218F5A6E267} = {F1911B8F-ABC9-4F49-9C1E-30BA1E5D874E}
 		{61568B82-0777-465F-B507-000EAF70D51C} = {F1911B8F-ABC9-4F49-9C1E-30BA1E5D874E}
+		{06000CDF-CBAA-47A2-8F1C-30B2BDD617D2} = {21570E98-069D-4F3A-86E5-5B2688CA8A28}
+		{5F4F8F2E-96B7-4054-AC4B-8A40C710F704} = {21570E98-069D-4F3A-86E5-5B2688CA8A28}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{98D85CB1-F132-497C-9D80-0AF710BF7971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -72,5 +80,13 @@ Global
 		{61568B82-0777-465F-B507-000EAF70D51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61568B82-0777-465F-B507-000EAF70D51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61568B82-0777-465F-B507-000EAF70D51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06000CDF-CBAA-47A2-8F1C-30B2BDD617D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06000CDF-CBAA-47A2-8F1C-30B2BDD617D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06000CDF-CBAA-47A2-8F1C-30B2BDD617D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06000CDF-CBAA-47A2-8F1C-30B2BDD617D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4F8F2E-96B7-4054-AC4B-8A40C710F704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4F8F2E-96B7-4054-AC4B-8A40C710F704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4F8F2E-96B7-4054-AC4B-8A40C710F704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4F8F2E-96B7-4054-AC4B-8A40C710F704}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
