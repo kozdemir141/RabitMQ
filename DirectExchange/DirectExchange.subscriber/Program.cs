@@ -7,6 +7,7 @@ factory.Uri = new Uri("amqps://pmopgutd:edmooHf15DdFBhXhm4ZtLQ3UCbSp40xQ@chimpan
 
 using var connection = factory.CreateConnection();
 
+
 var channel = connection.CreateModel();
 
 channel.BasicQos(0, 1, false);
@@ -23,12 +24,12 @@ consumer.Received += (sender, eventArgs) =>
 
     Console.WriteLine("Gelen Mesaj:" + message);
 
-    File.AppendAllText("log-critical.txt", message + "\n");
+    //File.AppendAllText("log-critical.txt", message + "\n");
 
     channel.BasicAck(eventArgs.DeliveryTag, false);
 };
 
-var queueName = "direct-queue-Critical";
+var queueName = "direct-queue-Warning";
 channel.BasicConsume(queueName, false, consumer);
 
 Console.ReadLine();
